@@ -1,1 +1,1 @@
-test
+ping www.baidu.com
