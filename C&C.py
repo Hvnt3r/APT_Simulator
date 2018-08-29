@@ -1,1 +1,1 @@
-ping www.baidu.com
+dir
